@@ -1,7 +1,7 @@
 <x-layout title="Blog - JRCSalter.com">
   <x-header />
   <x-primary-nav />
-  <main>
+  <main id="main">
     <h1>Blog</h1>
   </main>
   <x-primary-sidebar />

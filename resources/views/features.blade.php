@@ -1,7 +1,7 @@
 <x-layout title="Features - JRCSalter.com">
   <x-header />
   <x-primary-nav />
-  <main>
+  <main id="main">
     <h1>Features</h1>
   </main>
   <x-primary-sidebar />

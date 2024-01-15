@@ -1,3 +1,3 @@
 <x-sidebar id="secondary-sidebar">
-    Secondary Sidebar
+  Secondary Sidebar
 </x-sidebar>
